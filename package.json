@@ -1,5 +1,5 @@
 {
-  "name": "auth",
+  "name": "restful-api-node",
   "version": "1.0.0",
   "description": "基于node.js+express+mongodb的restful api开发用户模型认证相关",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "author": "Nickj",
+  "author": "Frank",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.1",
